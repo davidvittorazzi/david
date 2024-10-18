@@ -1,0 +1,12 @@
+navbar {
+    z-index: 9999;
+}
+
+i {
+    color: #16bc00;
+    font-size: 20px;
+}
+
+footer {
+    background-color: rgb(159, 159, 159);
+}
